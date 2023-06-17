@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1584211301 source:h:\assignments\oop\clock\syed hamza haider\main.cpp
+	<iostream>
+	<cstdlib>
+	<dos.h>
+	<conio.h>
+	<windows.h>
+
+1585150427 source:h:\assignments\2nd semester\oop\clock\syed hamza haider\main.cpp
+	<iostream>
+	<cstdlib>
+	<dos.h>
+	<conio.h>
+	<windows.h>
+
